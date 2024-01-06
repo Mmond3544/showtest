@@ -1,0 +1,9 @@
+[[pages]]
+path = "singin.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "student.py"
+name = "Student"
+icon = ":books:"
